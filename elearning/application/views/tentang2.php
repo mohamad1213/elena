@@ -69,7 +69,7 @@
     <div class="container">
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-5 col-md-6 about-left">
-                <img class="img-fluid" src="<?= base_url('assets2/') ?>img/about-img.png" alt="">
+                <img class="img-fluid" src="<?= base_url('frontend/') ?>img/about-img.png" alt="">
             </div>
             <div class="offset-lg-1 col-lg-5 col-md-12 about-right">
                 <h1>
@@ -115,10 +115,10 @@
                 <div class="owl-carousel video-carousel">
                     <div class="single-video">
                         <div class="video-part">
-                            <img class="img-fluid" src="<?= base_url('assets2/') ?>img/video-img.jpg" alt="">
+                            <img class="img-fluid" src="<?= base_url('frontend/') ?>img/video-img.jpg" alt="">
                             <div class="overlay"></div>
                             <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=VufDd-QL1c0">
-                                <img class="play-icon" src="<?= base_url('assets2/') ?>img/play-btn.png" alt="">
+                                <img class="play-icon" src="<?= base_url('frontend/') ?>img/play-btn.png" alt="">
                             </a>
                         </div>
                         <h4 class="text-white mb-20 mt-30">Learn Angular js Course for Legendary Persons</h4>
@@ -130,10 +130,10 @@
 
                     <div class="single-video">
                         <div class="video-part">
-                            <img class="img-fluid" src="<?= base_url('assets2/') ?>img/video-img.jpg" alt="">
+                            <img class="img-fluid" src="<?= base_url('frontend/') ?>img/video-img.jpg" alt="">
                             <div class="overlay"></div>
                             <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=VufDd-QL1c0">
-                                <img class="play-icon" src="<?= base_url('assets2/') ?>img/play-btn.png" alt="">
+                                <img class="play-icon" src="<?= base_url('frontend/') ?>img/play-btn.png" alt="">
                             </a>
                         </div>
                         <h4 class="text-white mb-20 mt-30">Learn Angular js Course for Legendary Persons</h4>
@@ -263,7 +263,7 @@
                 <div class="col-lg-5">
                     <div class="item">
                         <div class="testi-item">
-                            <img src="<?= base_url('assets2/') ?>img/quote.png" alt="" />
+                            <img src="<?= base_url('frontend/') ?>img/quote.png" alt="" />
                             <div class="mt-40 text">
                                 <p>
                                     As conscious traveling Paup ers we must always be oncerned
@@ -279,7 +279,7 @@
                 </div>
 
                 <div class="offset-lg-1 col-lg-6">
-                    <img src="<?= base_url('assets2/') ?>img/testimonial/t1.jpg" alt="" />
+                    <img src="<?= base_url('frontend/') ?>img/testimonial/t1.jpg" alt="" />
                 </div>
             </div>
 
@@ -287,7 +287,7 @@
                 <div class="col-lg-5">
                     <div class="item">
                         <div class="testi-item">
-                            <img src="<?= base_url('assets2/') ?>img/quote.png" alt="" />
+                            <img src="<?= base_url('frontend/') ?>img/quote.png" alt="" />
                             <div class="mt-40 text">
                                 <p>
                                     As conscious traveling Paup ers we must always be oncerned
@@ -303,27 +303,27 @@
                 </div>
 
                 <div class="offset-lg-1 col-lg-6">
-                    <img src="<?= base_url('assets2/') ?>img/testimonial/t1.jpg" alt="" />
+                    <img src="<?= base_url('frontend/') ?>img/testimonial/t1.jpg" alt="" />
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- ================ End Testimonials Area ================= -->
-<script src="<?= base_url('assets2/') ?>js/vendor/jquery-2.2.4.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/vendor/jquery-2.2.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-<script src="<?= base_url('assets2/') ?>js/vendor/bootstrap.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/vendor/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.ajaxchimp.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.magnific-popup.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/parallax.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/owl.carousel.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.sticky.js"></script>
-<script src="<?= base_url('assets2/') ?>js/hexagons.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.counterup.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/waypoints.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.nice-select.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/main.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.ajaxchimp.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.magnific-popup.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/parallax.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/owl.carousel.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.sticky.js"></script>
+<script src="<?= base_url('frontend/') ?>js/hexagons.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.counterup.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/waypoints.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.nice-select.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/main.js"></script>
 </body>
 
 </html>

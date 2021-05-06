@@ -83,7 +83,7 @@
             <div class="owl-carousel popuar-course-carusel">
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p1.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p1.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">
@@ -118,7 +118,7 @@
 
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p2.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p2.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">
@@ -153,7 +153,7 @@
 
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p3.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p3.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">
@@ -188,7 +188,7 @@
 
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p4.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p4.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">

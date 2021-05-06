@@ -243,20 +243,20 @@
     </script>
 <?php endif; ?>
 
-<script src="<?= base_url('assets2/') ?>js/vendor/jquery-2.2.4.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/vendor/jquery-2.2.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-<script src="<?= base_url('assets2/') ?>js/vendor/bootstrap.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/vendor/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.ajaxchimp.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.magnific-popup.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/parallax.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/owl.carousel.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.sticky.js"></script>
-<script src="<?= base_url('assets2/') ?>js/hexagons.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.counterup.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/waypoints.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/jquery.nice-select.min.js"></script>
-<script src="<?= base_url('assets2/') ?>js/main.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.ajaxchimp.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.magnific-popup.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/parallax.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/owl.carousel.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.sticky.js"></script>
+<script src="<?= base_url('frontend/') ?>js/hexagons.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.counterup.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/waypoints.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/jquery.nice-select.min.js"></script>
+<script src="<?= base_url('frontend/') ?>js/main.js"></script>
 <script>
     var animateButton = function(e) {
         e.preventDefault;

@@ -5,7 +5,7 @@
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <!-- Favicon -->
-    <link rel="shortcut icon" href="<?= base_url('assets2/') ?>img/fav.png" />
+    <link rel="shortcut icon" href="<?= base_url('frontend/') ?>img/fav.png" />
     <!-- Author Meta -->
     <meta name="author" content="colorlib" />
     <!-- Meta Description -->
@@ -36,7 +36,7 @@
                     </p>
                 </div>
                 <div class="offset-lg-2 col-lg-5 col-md-12 home-banner-right">
-                    <img class="img-fluid" src="<?= base_url('assets2/') ?>img/header-img.png" alt="" />
+                    <img class="img-fluid" src="<?= base_url('frontend/') ?>img/header-img.png" alt="" />
                 </div>
             </div>
         </div>
@@ -103,7 +103,7 @@
             <div class="owl-carousel popuar-course-carusel">
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p1.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p1.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">
@@ -138,7 +138,7 @@
 
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p2.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p2.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">
@@ -173,7 +173,7 @@
 
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p3.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p3.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">
@@ -208,7 +208,7 @@
 
                 <div class="single-popular-course">
                     <div class="thumb">
-                        <img class="f-img img-fluid mx-auto" src="<?= base_url('assets2/') ?>img/popular-course/p4.jpg" alt="" />
+                        <img class="f-img img-fluid mx-auto" src="<?= base_url('frontend/') ?>img/popular-course/p4.jpg" alt="" />
                     </div>
                     <div class="details">
                         <div class="d-flex justify-content-between mb-20">
@@ -265,10 +265,10 @@
                     <div class="owl-carousel video-carousel">
                         <div class="single-video">
                             <div class="video-part">
-                                <img class="img-fluid" src="<?= base_url('assets2/') ?>img/video-img.jpg" alt="">
+                                <img class="img-fluid" src="<?= base_url('frontend/') ?>img/video-img.jpg" alt="">
                                 <div class="overlay"></div>
                                 <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=VufDd-QL1c0">
-                                    <img class="play-icon" src="<?= base_url('assets2/') ?>img/play-btn.png" alt="">
+                                    <img class="play-icon" src="<?= base_url('frontend/') ?>img/play-btn.png" alt="">
                                 </a>
                             </div>
                             <h4 class="text-white mb-20 mt-30">Learn Angular js Course for Legendary Persons</h4>
@@ -280,10 +280,10 @@
 
                         <div class="single-video">
                             <div class="video-part">
-                                <img class="img-fluid" src="<?= base_url('assets2/') ?>img/video-img.jpg" alt="">
+                                <img class="img-fluid" src="<?= base_url('frontend/') ?>img/video-img.jpg" alt="">
                                 <div class="overlay"></div>
                                 <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=VufDd-QL1c0">
-                                    <img class="play-icon" src="<?= base_url('assets2/') ?>img/play-btn.png" alt="">
+                                    <img class="play-icon" src="<?= base_url('frontend/') ?>img/play-btn.png" alt="">
                                 </a>
                             </div>
                             <h4 class="text-white mb-20 mt-30">Learn Angular js Course for Legendary Persons</h4>
@@ -413,7 +413,7 @@
                     <div class="col-lg-5">
                         <div class="item">
                             <div class="testi-item">
-                                <img src="<?= base_url('assets2/') ?>img/quote.png" alt="" />
+                                <img src="<?= base_url('frontend/') ?>img/quote.png" alt="" />
                                 <div class="mt-40 text">
                                     <p>
                                         As conscious traveling Paup ers we must always be oncerned
@@ -429,7 +429,7 @@
                     </div>
 
                     <div class="offset-lg-1 col-lg-6">
-                        <img src="<?= base_url('assets2/') ?>img/testimonial/t1.jpg" alt="" />
+                        <img src="<?= base_url('frontend/') ?>img/testimonial/t1.jpg" alt="" />
                     </div>
                 </div>
 
@@ -437,7 +437,7 @@
                     <div class="col-lg-5">
                         <div class="item">
                             <div class="testi-item">
-                                <img src="<?= base_url('assets2/') ?>img/quote.png" alt="" />
+                                <img src="<?= base_url('frontend/') ?>img/quote.png" alt="" />
                                 <div class="mt-40 text">
                                     <p>
                                         As conscious traveling Paup ers we must always be oncerned
@@ -453,7 +453,7 @@
                     </div>
 
                     <div class="offset-lg-1 col-lg-6">
-                        <img src="<?= base_url('assets2/') ?>img/testimonial/t1.jpg" alt="" />
+                        <img src="<?= base_url('frontend/') ?>img/testimonial/t1.jpg" alt="" />
                     </div>
                 </div>
             </div>
@@ -521,7 +521,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-post">
-                        <img src="<?= base_url('assets2/') ?>img/blog-post/b1.jpg" class="img-fluid" alt="" />
+                        <img src="<?= base_url('frontend/') ?>img/blog-post/b1.jpg" class="img-fluid" alt="" />
                         <div class="overlay"></div>
                         <div class="top-text">
                             <p>29th, oct, 2018</p>
@@ -545,7 +545,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mt--160">
                     <div class="single-blog-post">
-                        <img src="<?= base_url('assets2/') ?>img/blog-post/b2.jpg" class="img-fluid" alt="" />
+                        <img src="<?= base_url('frontend/') ?>img/blog-post/b2.jpg" class="img-fluid" alt="" />
                         <div class="overlay"></div>
                         <div class="top-text">
                             <p>29th, oct, 2018</p>
@@ -569,7 +569,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mt--260">
                     <div class="single-blog-post">
-                        <img src="<?= base_url('assets2/') ?>img/blog-post/b3.jpg" class="img-fluid" alt="" />
+                        <img src="<?= base_url('frontend/') ?>img/blog-post/b3.jpg" class="img-fluid" alt="" />
                         <div class="overlay"></div>
                         <div class="top-text">
                             <p>29th, oct, 2018</p>
