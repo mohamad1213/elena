@@ -19,7 +19,7 @@
         <form action="<?= base_url('admin/user_edit') ?>" enctype="multipart/form-data" method="post">
             <?php foreach ($user as $u) { ?>
                 <div class="">
-                    <div class="hero text-white hero-bg-image" data-background="<?= base_url('assets/') ?>stisla-assets/img/unsplash/eberhard-grossgasteiger-1207565-unsplash.jpg">
+                    <div class="hero text-white hero-bg-image" data-background="<?= base_url('frontend2/') ?>stisla-assets/img/unsplash/eberhard-grossgasteiger-1207565-unsplash.jpg">
                         <div class="col-md-4 mx-auto rounded-circle bg-white p-3" style="border-radius:3px;box-shadow:rgba(0, 0, 0, 0.03) 0px 4px 8px 0px;">
                             <img src="<?= base_url() . 'assets/profile_picture/' . $u->image; ?>" class="card-img-top  rounded-circle img-responsive" alt="...">
                         </div>

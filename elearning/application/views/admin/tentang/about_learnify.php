@@ -9,7 +9,7 @@
         </div>
         <div class="">
             <video class="afterglow" autoplay id="myvideo" width="1280" height="720">
-                <source type="video/mp4" src="<?= base_url('assets/') ?>learnify.mp4" />
+                <source type="video/mp4" src="<?= base_url('frontend2/') ?>learnify.mp4" />
             </video>
         </div>
         <br>

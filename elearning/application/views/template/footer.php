@@ -131,18 +131,18 @@
 </div>
 <!-- End Login Modal -->
 
-<script src="<?= base_url('assets/') ?>js/stellar.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/lightbox/simpleLightbox.min.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/nice-select/js/jquery.nice-select.min.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/isotope/imagesloaded.pkgd.min.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/isotope/isotope.pkgd.min.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/owl-carousel/owl.carousel.min.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/popup/jquery.magnific-popup.min.js"></script>
-<script src="<?= base_url('assets/') ?>js/jquery.ajaxchimp.min.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/counter-up/jquery.waypoints.min.js"></script>
-<script src="<?= base_url('assets/') ?>vendors/counter-up/jquery.counterup.js"></script>
-<script src="<?= base_url('assets/') ?>js/mail-script.js"></script>
-<script src="<?= base_url('assets/') ?>js/theme.js"></script>
+<script src="<?= base_url('frontend2/') ?>js/stellar.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/lightbox/simpleLightbox.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/nice-select/js/jquery.nice-select.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/isotope/imagesloaded.pkgd.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/isotope/isotope.pkgd.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/owl-carousel/owl.carousel.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/popup/jquery.magnific-popup.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>js/jquery.ajaxchimp.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/counter-up/jquery.waypoints.min.js"></script>
+<script src="<?= base_url('frontend2/') ?>vendors/counter-up/jquery.counterup.js"></script>
+<script src="<?= base_url('frontend2/') ?>js/mail-script.js"></script>
+<script src="<?= base_url('frontend2/') ?>js/theme.js"></script>
 <script>
     var animateButton = function(e) {
         e.preventDefault;

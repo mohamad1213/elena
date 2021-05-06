@@ -21,16 +21,16 @@ orangtua dapat terus belajar dan mengajar dimana saja dan kapan saja.
     <title>Learnify - orangtua Login</title>
 
     <!-- General CSS Files -->
-    <link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
+    <link rel="icon" href="<?= base_url('frontend2/') ?>img/favicon.png" type="image/png">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
     <!-- CSS Libraries -->
-    <link rel="stylesheet" href="<?= base_url('assets/') ?>stisla-assets/node_modules/bootstrap-social/bootstrap-social.css">
+    <link rel="stylesheet" href="<?= base_url('frontend2/') ?>stisla-assets/node_modules/bootstrap-social/bootstrap-social.css">
 
     <!-- Template CSS -->
-    <link rel="stylesheet" href="<?= base_url('assets/') ?>stisla-assets/css/style.css">
-    <link rel="stylesheet" href="<?= base_url('assets/') ?>stisla-assets/css/components.css">
+    <link rel="stylesheet" href="<?= base_url('frontend2/') ?>stisla-assets/css/style.css">
+    <link rel="stylesheet" href="<?= base_url('frontend2/') ?>stisla-assets/css/components.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.10.4/dist/sweetalert2.all.min.js"></script>
 
 </head>
@@ -41,7 +41,7 @@ orangtua dapat terus belajar dan mengajar dimana saja dan kapan saja.
             <div class="d-flex flex-wrap align-items-stretch">
                 <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
                     <div class="p-4 m-3">
-                        <a href="<?= base_url('welcome') ?>"> <img src="<?= base_url('assets/') ?>/img/logo.png" alt="logo" width="150" class=" mb-5 mt-2"></a>
+                        <a href="<?= base_url('welcome') ?>"> <img src="<?= base_url('frontend2/') ?>/img/logo.png" alt="logo" width="150" class=" mb-5 mt-2"></a>
                         <h4 class="text-dark font-weight-normal">Selamat datang di <span class="font-weight-bold">Learnify</span>
                         </h4>
                         <p class="text-muted">Sebelum masuk ke halaman orangtua, anda harus login terlebih dahulu sebagai
@@ -72,7 +72,7 @@ orangtua dapat terus belajar dan mengajar dimana saja dan kapan saja.
                         </form>
                     </div>
                 </div>
-                <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 background-walk-y position-relative overlay-gradient-bottom" data-background="<?= base_url('assets/') ?>stisla-assets/img/unsplash/ss.jpg">
+                <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 background-walk-y position-relative overlay-gradient-bottom" data-background="<?= base_url('frontend2/') ?>stisla-assets/img/unsplash/ss.jpg">
                     <div class="absolute-bottom-left index-2">
                         <div class="text-light p-5 pb-2">
                             <div class="mb-5 pb-3">
@@ -204,10 +204,10 @@ orangtua dapat terus belajar dan mengajar dimana saja dan kapan saja.
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.7.6/jquery.nicescroll.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
-    <script src="<?= base_url('assets/') ?>stisla-assets/js/stisla.js"></script>
+    <script src="<?= base_url('frontend2/') ?>stisla-assets/js/stisla.js"></script>
     <!-- Template JS File -->
-    <script src="<?= base_url('assets/') ?>stisla-assets/js/scripts.js"></script>
-    <script src="<?= base_url('assets/') ?>stisla-assets/js/custom.js"></script>
+    <script src="<?= base_url('frontend2/') ?>stisla-assets/js/scripts.js"></script>
+    <script src="<?= base_url('frontend2/') ?>stisla-assets/js/custom.js"></script>
     <!-- Page Specific JS File -->
 </body>
 

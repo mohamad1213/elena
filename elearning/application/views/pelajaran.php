@@ -28,7 +28,7 @@
                 <div class="grid_inner">
                     <div class="grid_item wd55">
                         <div class="courses_item" data-aos="fade-right" data-aos-duration="1800">
-                            <img src="<?= base_url('assets/') ?>img/courses/course-1.jpg" alt="">
+                            <img src="<?= base_url('frontend2/') ?>img/courses/course-1.jpg" alt="">
                             <div class="hover_text">
                                 <a class="cat" href="#">Gratis</a>
                                 <a href="javaScript:void(0);">
@@ -45,7 +45,7 @@
                     </div>
                     <div class="grid_item wd44">
                         <div class="courses_item" data-aos="fade-down" data-aos-duration="1800">
-                            <img src="<?= base_url('assets/') ?>img/courses/course-2.jpg" alt="">
+                            <img src="<?= base_url('frontend2/') ?>img/courses/course-2.jpg" alt="">
                             <div class="hover_text">
                                 <a class="cat" href="#">Gratis</a>
                                 <a href="javaScript:void(0);">
@@ -61,7 +61,7 @@
                     </div>
                     <div class="grid_item wd44">
                         <div class="courses_item" data-aos="fade-right" data-aos-duration="1800">
-                            <img src="<?= base_url('assets/') ?>img/courses/course-4.jpg" alt="">
+                            <img src="<?= base_url('frontend2/') ?>img/courses/course-4.jpg" alt="">
                             <div class="hover_text">
                                 <a class="cat" href="#">Gratis</a>
                                 <a href="javaScript:void(0);">
@@ -77,7 +77,7 @@
                     </div>
                     <div class="grid_item wd55">
                         <div class="courses_item" data-aos="fade-up" data-aos-duration="1800">
-                            <img src="<?= base_url('assets/') ?>img/courses/course-5.jpg" alt="">
+                            <img src="<?= base_url('frontend2/') ?>img/courses/course-5.jpg" alt="">
                             <div class="hover_text">
                                 <a class="cat" href="#">Gratis</a>
                                 <a href="javaScript:void(0);">
@@ -96,7 +96,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="course_item" data-aos="fade-left" data-aos-duration="1800">
-                    <img src="<?= base_url('assets/') ?>img/courses/course-3.jpg" alt="">
+                    <img src="<?= base_url('frontend2/') ?>img/courses/course-3.jpg" alt="">
                     <div class="hover_text">
                         <a class="cat" href="#">Gratis</a>
                         <a href="javaScript:void(0);">

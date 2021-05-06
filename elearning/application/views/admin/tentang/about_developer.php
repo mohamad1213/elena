@@ -7,7 +7,7 @@
         <div class="">
             <div class="hero text-white hero-bg-image" data-background="https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=649&q=80">
                 <div class="col-md-4 mx-auto rounded-circle bg-white p-3" style="border-radius:3px;box-shadow:rgba(0, 0, 0, 0.03) 0px 4px 8px 0px;">
-                    <img src="<?= base_url('assets/') ?>syauqi.jpg" class="card-img-top rounded-circle img-responsive" alt="...">
+                    <img src="<?= base_url('frontend2/') ?>syauqi.jpg" class="card-img-top rounded-circle img-responsive" alt="...">
                 </div>
             </div>
         </div>

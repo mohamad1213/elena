@@ -79,7 +79,7 @@
             </div>
         </div>
         <div class="">
-            <div class="hero text-white hero-bg-image" data-background="<?= base_url('assets/') ?>stisla-assets/img/unsplash/eberhard-grossgasteiger-1207565-unsplash.jpg">
+            <div class="hero text-white hero-bg-image" data-background="<?= base_url('frontend2/') ?>stisla-assets/img/unsplash/eberhard-grossgasteiger-1207565-unsplash.jpg">
                 <div class=" hero-inner">
                     <h1>Selamat Datang, <?php
                                         $data['user'] = $this->db->get_where('admin', ['email' =>
